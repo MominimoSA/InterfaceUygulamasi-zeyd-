@@ -16,7 +16,7 @@ public class Main {
         List<Doktor> doktorListe = new ArrayList<>();
         List<Hemsire> hemsireListe = new ArrayList<>();
 
-
+        //deneme
         int karar = 4;
         do{
             System.out.println("lütfen gerçekleştirmek istediğiniz işlem ile ilgili sayıyı giriniz:" +
